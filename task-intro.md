@@ -43,3 +43,5 @@
   * READY <=> RUNNING は OS によって遷移される
   * RUNNING => WAITING => READY は タスクがみずから状態遷移させる
   * RUNNING => DORMANT も然り
+
+./task-state.PNG
