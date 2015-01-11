@@ -44,4 +44,5 @@
   * RUNNING => WAITING => READY は タスクがみずから状態遷移させる
   * RUNNING => DORMANT も然り
 
-![RTOS-intro/task-state.PNG at master · miwarin/RTOS-intro](https://github.com/miwarin/RTOS-intro/blob/master/task-state.PNG "RTOS-intro/task-state.PNG at master · miwarin/RTOS-intro")
+![タスク状態遷移](https://github.com/miwarin/RTOS-intro/blob/master/task-state.PNG)
+
