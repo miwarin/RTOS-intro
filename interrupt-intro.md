@@ -8,7 +8,7 @@
 
 ( via [第2回　タスクとは - T-Engine Forum Japan](http://www.t-engine.org/ja/sympo/rtos/rtos02 "第2回　タスクとは - T-Engine Forum Japan") )
 
-10_fig-1.png
+![割り込み処理](https://github.com/miwarin/RTOS-intro/blob/master/10_fig-1.png)
 
 * ディスパッチ禁止
   * タスクが切り替わらないようになる
